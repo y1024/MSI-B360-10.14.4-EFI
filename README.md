@@ -16,7 +16,7 @@ https://sleele.com/2019/07/14/gettingstartedtutorial/
 
 # Wiki  
 https://github.com/SuperNG6/MSI-B360-Big-Sur-EFI/wiki  
-[https://sleele.com/2020/04/13/hackintosh-Big-Sur](https://sleele.com/2020/04/13/hackintosh-catalina/)
+https://sleele.com/2020/04/13/hackintosh-Big-Sur
 
 # OpenCore Guide  
 https://sleele.com/2019/10/31/opencore-guide/
@@ -37,13 +37,13 @@ https://github.com/SuperNG6/Acidanthera-Hackintosh-Tools
 
 | Components    | Version               |
 | ------------- | --------------------- |
-| OpenCorePkg   | 0.8.1    | 
-| AppleALC      | 1.7.2       |
-| IntelMausi    | 1.0.7     |
-| Lilu          | 1.6.0           |
-| VirtualSMC    | 1.2.9     |
-| WhateverGreen | 1.5.9  |
-| NVMeFix       | 1.0.9        |
+| OpenCorePkg   | 1.0.4    | 
+| AppleALC      | 1.9.4       |
+| IntelMausi    | 1.0.8     |
+| Lilu          | 1.7.0           |
+| VirtualSMC    | v1.3.5     |
+| WhateverGreen | 1.6.9  |
+| NVMeFix       | 1.1.2        |
     
 
 ## Changelog
